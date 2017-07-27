@@ -1,17 +1,28 @@
 {
-    "name": "azurenh-nodeadmin",
-    "version": "1.0.0",
-    "description": "Node JS App to interact with Azure Notification Hub",
-    "main": "app.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "azure",
-        "push",
-        "notifications",
-        "nodejs"
-    ],
-    "author": "rodrigo.pina@de.bosch.com",
-    "license": "ISC"
+  "name": "azurenh-nodeadmin",
+  "version": "1.0.0",
+  "description": "Node JS App to interact with Azure Notification Hub",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azure",
+    "push",
+    "notifications",
+    "nodejs"
+  ],
+  "author": "rodrigo.pina@de.bosch.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinarodrigo/azureNH-nodeadmin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pinarodrigo/azureNH-nodeadmin/issues"
+  },
+  "homepage": "https://github.com/pinarodrigo/azureNH-nodeadmin#readme",
+  "dependencies": {
+    "azure": "^2.0.0-preview"
+  }
 }
