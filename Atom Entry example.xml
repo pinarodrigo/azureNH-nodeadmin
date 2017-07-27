@@ -1,0 +1,16 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+    <content type="application/xml">
+        <AppleTemplateRegistrationDescription xmlns="http://schemas.microsoft.com/netservices/2010/10/servicebus/connect" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+            <ETag>1</ETag>
+            <ExpirationTime>9999-12-31T23:59:59.9999999Z</ExpirationTime>
+            <RegistrationId>3385447190923824680-6265094569710694934-1</RegistrationId>
+            <Tags>$InstallationId:{8DD4C767-174A-4F06-BDE6-2D37F556B703},MyTemplate,Taller_de_Rodrigo</Tags>
+            <DeviceToken>6D9FE2F542B5A53FA691D298B54802B96A765BA76596B2030F2821E023C40B8C</DeviceToken>
+            <BodyTemplate>
+            	<![CDATA[{"aps":{"alert":"$(param)"}}]]>
+            </BodyTemplate>
+            <Expiry i:nil="true"/>
+            <TemplateName>MyTemplate</TemplateName>
+        </AppleTemplateRegistrationDescription>
+    </content>
+</entry>
